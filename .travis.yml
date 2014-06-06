@@ -5,6 +5,7 @@ python:
   - 2.6
   - 2.7
 
+
 env:
   - B3_REPO='git+git://github.com/BigBrotherBot/big-brother-bot.git@master#egg=b3'
   - B3_REPO='git+git://github.com/BigBrotherBot/big-brother-bot.git@release-1.10#egg=b3'
